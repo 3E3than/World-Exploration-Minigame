@@ -1,0 +1,1 @@
+A 2D, tile-based world exploration game created in collaboration with Bianca Poblano, based on the UC Berkeley CS61B project. The world generation algorithm, along with the user interface and game mechanics, are individually implemented.
